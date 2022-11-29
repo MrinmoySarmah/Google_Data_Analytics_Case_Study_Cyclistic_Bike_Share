@@ -4,3 +4,4 @@ Cyclistic is a fictional bike sharing company based and operating in Chicago.
 The executive team is on the lookout for ways to drive growth and is considering a marketing strategy that aims to convert a large portion of casual riders into members.
 As a junior data analyst on Cyclistic's marketing analysis team, I've been tasked with presenting to executives my findings and recommendations once I've throughly explored,processed and analyzed any relevent data.
 this is the R-code for the cleaning and analysis done on the dataset.
+you can find the dataset for this project here : [Cyclistic_bike_share_divvy_tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html)
