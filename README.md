@@ -9,6 +9,7 @@ As a junior data analyst on Cyclistic's marketing analysis team, I've been taske
 this is the R-code for the cleaning and analysis done on the dataset.
 
 you can find the dataset for this project here : [Cyclistic_bike_share_divvy_tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html)
+
 My case study visuals:
 (https://public.tableau.com/views/cyclistic_bike_share_project/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
